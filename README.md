@@ -28,7 +28,7 @@ Para executar o aplicativo, você pode compilar e executar os arquivos Java em q
 
 ---
 
-# Lista-De-Compras-Java
+# Shopping-List-Java
 
 This repository contains two versions of a Java shopping list application.
 
